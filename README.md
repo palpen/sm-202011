@@ -1,20 +1,11 @@
 # SharpestMinds Mentorship, November-13-2020
 
-# Goals and Projects
-
-Machine Learning / Data Science Lifecycle:
-
-- Define objective
-- Data analysis
-- Feature engineering
-- Model development and evalualtion
-- Deployment
-
 ## Weekly touchbase
 
 Topic: SharpestMinds weekly touchbase
 
-Join Zoom Meeting
+Zoom Meetin URL:
+
 https://us02web.zoom.us/j/3851650874?pwd=UzE1WGtEeThNR0x1QTZ0cmVHUVBiQT09
 
 Meeting ID: 385 165 0874
@@ -37,11 +28,26 @@ Once all the packages have been installed, activate it by
 conda activate sm-202011
 ```
 
+# Machine Learning / Data Science Lifecycle
+
+- Define objective
+- Data analysis
+- Feature engineering
+- Model development and evalualtion
+- Deployment
+
 ## Project 1: Loan Defaults
-Source data:
+
+The goal of this project is to develop a machine learning model to predict which customers will default on their loan. This project has many of the challenges you might encounter on data science projects in industry: missing records, categorical variables, label you must create yourself. It's a fun problem that is also directly revelant to the banking industry.
+
+* Data source: https://www.kaggle.com/wordsforthewise/lending-club
+* Kaggle kernels you might find useful:
+    * https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data
+    * https://www.kaggle.com/sishihara/simple-lightgbm-kfold
 
 ## Project 2: ASHRAE Time Series
-Source data:
+
+* Data source: https://www.kaggle.com/c/ashrae-energy-prediction/data
 
 ## Project 3: Project of choice (Time permitting)
 
