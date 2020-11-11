@@ -1,14 +1,24 @@
 # SharpestMinds Mentorship, November-13-2020
 
+# Goals and Projects
+
+Machine Learning / Data Science Lifecycle:
+
+- Define objective
+- Data analysis
+- Feature engineering
+- Model development and evalualtion
+- Deployment
+
 ## Weekly touchbase
 
 Topic: SharpestMinds weekly touchbase
 
-Zoom Meetin URL:
-
+Join Zoom Meeting
 https://us02web.zoom.us/j/3851650874?pwd=UzE1WGtEeThNR0x1QTZ0cmVHUVBiQT09
 
 Meeting ID: 385 165 0874
+
 Passcode: c9PgA0
 
 ## Building the development environment using conda
@@ -27,14 +37,6 @@ Once all the packages have been installed, activate it by
 ```
 conda activate sm-202011
 ```
-
-# Machine Learning / Data Science Lifecycle
-
-- Define objective
-- Data analysis
-- Feature engineering
-- Model development and evalualtion
-- Deployment
 
 ## Project 1: Loan Defaults
 
