@@ -1,0 +1,31 @@
+name: sm
+channels:
+- defaults
+- conda-forge
+- plotly
+dependencies:
+- python=3.7
+- eli5=0.10.1
+- feather-format=0.4.0
+- jupyter=1.0.0
+- matplotlib=3.1.1
+- numpy=1.17.4
+- pandas-profiling
+- pandas=0.25.3
+- plotly=4.8.0
+- pyarrow=0.13.0
+- pylint=2.4.4
+- pymssql=2.1.4
+- pyyaml=5.1.2
+- scikit-learn=0.21.2
+- scikit-plot=0.3.7
+- shap=0.35.0
+- seaborn=0.9.0
+- tqdm=4.41.1
+- unidecode=1.1.1
+- pip
+- pip:
+  - ipython==7.10.1
+  - Pillow==7.0.0
+  - lightgbm==2.3.1
+  - xgboost==0.90
