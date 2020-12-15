@@ -9,7 +9,7 @@ The goal of this project is to predict the probability that a loan will charge o
 
 ##References
 
-LendingClub Data  [https://www.kaggle.com/wordsforthewise/lending-club] ( https://www.kaggle.com/wordsforthewise/lending-club)
+LendingClub Data   ( https://www.kaggle.com/wordsforthewise/lending-club)
 Kernel Source [https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data] (https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data)
 
 ## Analysis
