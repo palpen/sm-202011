@@ -47,11 +47,10 @@ The goal of this project is to develop a machine learning model to predict which
     * https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data
     * https://www.kaggle.com/sishihara/simple-lightgbm-kfold
 
-## Project 2: ASHRAE Time Series
+## Project 2: Corporación Favorita Grocery Sales Forecasting
 
-* Data source: https://www.kaggle.com/c/ashrae-energy-prediction/data
+* Data source: https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data 
 
-## Project 3: Project of choice (Time permitting)
 
 ## Job and Interview Prep
 
