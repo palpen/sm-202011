@@ -1,6 +1,6 @@
 # Lending Club Loan Data
 
-## By Srujana Gunde
+## By Srujana
 ### December 15,2020
 
 [LendingClub](https://www.lendingclub.com/) was an American peer-to-peer lending company and the world's largest lending platform, where investors can search and browse the loan listings on the LendingClub website and select loans that they wanted to invest in based on the borrower information.As explained by [Wikipedia](https://en.wikipedia.org/wiki/LendingClub).
@@ -27,7 +27,7 @@ In **Loan_model**
 
 :white_check_mark: Created dummy variables for categorical variables
 
-:white_check_mark: Applied Random forest algorithm on train and test data, obtained **AUCROC** of **0.68**
+:white_check_mark: Applied Random Forest algorithm on train and test data, obtained **AUCROC** of **0.68**
 
 :white_check_mark: I found that the top **5** features are 
 interest rate, debt to income ratio, days from issue to earliest credit lines, revolving line utilization rate, and installment.
