@@ -7,9 +7,10 @@
 
 The goal of this project is to predict the probability that a loan will charge off. Here, the target variable is **loan_status**. for that reason we are keeping loan_status as either *fully paid* or *charge off*. This project will help investors to make better decisions while investing in borrowers. This dataset has 2 million rows and 151 columns.
 
-##References
+## References
 
 LendingClub Data   [https://www.kaggle.com/wordsforthewise/lending-club]
+
 Kernel Source [https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data] 
 
 ## Analysis
