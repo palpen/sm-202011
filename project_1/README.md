@@ -1,28 +1,34 @@
-# Predicting Loan Defaults Project
+# Lending Club Loan Data
 
 ## By Srujana Gunde
 ### December 15,2020
 
-[LendingClub](https://www.lendingclub.com/) was an American peer-to-peer lending company and world's largest lending platform, where investors are able to search and browse the loan listings on LendingClub website and select loans that they wanted to invest in based on the borrower information.As explained by [Wikipedia](https://en.wikipedia.org/wiki/LendingClub).
+[LendingClub](https://www.lendingclub.com/) was an American peer-to-peer lending company and the world's largest lending platform, where investors can search and browse the loan listings on the LendingClub website and select loans that they wanted to invest in based on the borrower information.As explained by [Wikipedia](https://en.wikipedia.org/wiki/LendingClub).
 
-The goal of this project is to predict the probability that a loan will charge off. Here, target variable is **loan_status**. for that reason we are keeping loan_status as either *Fully Paid* or *Charge Off*. This project will help investors to take better decisions while investing on borrowers.This dataset have 
+The goal of this project is to predict the probability that a loan will charge off. Here, the target variable is **loan_status**. for that reason we are keeping loan_status as either *fully paid* or *charge off*. This project will help investors to make better decisions while investing in borrowers. This dataset has 2 million rows and 151 columns.
 
-## References
+##References
 
-[LendingClub Data]( https://www.kaggle.com/wordsforthewise/lending-club)
-[Kernel Source](https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data)
+LendingClub Data  [https://www.kaggle.com/wordsforthewise/lending-club] ( https://www.kaggle.com/wordsforthewise/lending-club)
+Kernel Source [https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data] (https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data)
 
 ## Analysis
 
-This project contains Loan_prepation where data preparation takes place and Loan_Model where data modelling happens.
+This project contains Loan_prepation where data preparation takes place and Loan_Model where data modeling happens.
 
-In Loan_preparation
-:white_check_mark: Removed the loan features with >30% missing data 
-:white_check_mark: Divided the data into numerical data and categorical data, then visualized features in bar plots, scatter charts,stacked bar plots
+In **Loan_Preparation**
+
+:white_check_mark: Removed the loan features with **>30%** missing data 
+
+:white_check_mark: Divided the data into numerical data and categorical data, then visualized features in bar plots, scatter charts, stacked bar plots
 
 In Loan_model
 
 :white_check_mark: Created dummy variables for categorical variables
-:white_check_mark: Applied Random forest algorithm on train and test data, obtained AUCROC of 
-:white_check_mark: I found that top 5 features are 
-:white_check_mark:Plotted ROC curve and Precisio- Recall curve which are having 
+
+:white_check_mark: Applied Random forest algorithm on train and test data, obtained **AUCROC** of **0.68**
+
+:white_check_mark: I found that the top **5** features are 
+interest rate, debt to income ratio, days from issue to earliest credit lines, revolving line utilization rate, and installment.
+
+:white_check_mark: Plotted ROC curve and Precision-Recall curve which is having **0.68** and **0.29** respectively
