@@ -9,8 +9,8 @@ The goal of this project is to predict the probability that a loan will charge o
 
 ##References
 
-LendingClub Data   ( https://www.kaggle.com/wordsforthewise/lending-club)
-Kernel Source [https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data] (https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data)
+LendingClub Data   [https://www.kaggle.com/wordsforthewise/lending-club]
+Kernel Source [https://www.kaggle.com/pileatedperch/predicting-charge-off-from-initial-listing-data] 
 
 ## Analysis
 
@@ -22,7 +22,7 @@ In **Loan_Preparation**
 
 :white_check_mark: Divided the data into numerical data and categorical data, then visualized features in bar plots, scatter charts, stacked bar plots
 
-In Loan_model
+In **Loan_model**
 
 :white_check_mark: Created dummy variables for categorical variables
 
