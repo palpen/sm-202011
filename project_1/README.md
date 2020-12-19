@@ -9,6 +9,8 @@ The goal of this project is to predict the probability that a loan will charge o
 
 ## Main Results
 
+Using the random forest classifier, we were able to achieve an ROC-AUC of 0.68 and an Precision-Recall-AUC of .29. What does this mean from a business perspective? If you look at the cummulative gains curve, we find that selecting the top 20% based on the model's prediction can capture ______% of the true cases (i.e. customers who actually defaulted) in the hold out set.
+
 ![cummulative_gain](imgs/cummulativegains.png)
 
 ## References
