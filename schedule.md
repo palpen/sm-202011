@@ -1,4 +1,15 @@
 
+# Saturday, 19 December 2020
+- X Project 1 feedback
+- X Project 2
+    - Work in progress
+- X Reschedule session missed on Thursday
+    - Continue on Saturday
+- X Resume review
+    - Reschedule for this afternoon
+- Sharpestmind job resume and job interview feedback
+
+
 # Saturday, 12 December 2020
 
 - X Review final solution for project 1
