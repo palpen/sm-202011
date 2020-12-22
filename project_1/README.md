@@ -9,7 +9,7 @@ The goal of this project is to predict the probability that a loan will charge o
 
 ## Main Results
 
-Using the random forest classifier, we were able to achieve an ROC-AUC of 0.68 and an Precision-Recall-AUC of .29. What does this mean from a business perspective? If you look at the cummulative gains curve, we find that selecting the top 20% based on the model's prediction can capture ______% of the true cases (i.e. customers who actually defaulted) in the hold out set.
+Using the random forest classifier, we were able to achieve an ROC-AUC of 0.65 and an Precision-Recall-AUC of .31.If you look at the cummulative gains curve, we find that selecting the top 20% based on the model's prediction can capture 35% of the true cases (i.e. customers who actually defaulted) in the hold out set.
 
 ![cummulative_gain](imgs/cummulativegains.png)
 
@@ -36,6 +36,6 @@ In **Loan_model**
 :white_check_mark: Applied Random Forest algorithm on train and test data, obtained **AUCROC** of **0.65**
 
 :white_check_mark: I found that the top **5** features are
-interest rate, debt to income ratio, days from issue to earliest credit lines, revolving line utilization rate, and installment.
+interest rate, debt to income ratio, days from issue to earliest credit lines, revolving line utilization rate, and account ratio.
 
 :white_check_mark: Plotted ROC curve and Precision-Recall curve which is having **0.65** and **0.31** respectively
