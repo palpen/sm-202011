@@ -33,9 +33,9 @@ In **Loan_model**
 
 :white_check_mark: Created dummy variables for categorical variables
 
-:white_check_mark: Applied Random Forest algorithm on train and test data, obtained **AUCROC** of **0.68**
+:white_check_mark: Applied Random Forest algorithm on train and test data, obtained **AUCROC** of **0.65**
 
 :white_check_mark: I found that the top **5** features are
 interest rate, debt to income ratio, days from issue to earliest credit lines, revolving line utilization rate, and installment.
 
-:white_check_mark: Plotted ROC curve and Precision-Recall curve which is having **0.68** and **0.29** respectively
+:white_check_mark: Plotted ROC curve and Precision-Recall curve which is having **0.65** and **0.31** respectively
