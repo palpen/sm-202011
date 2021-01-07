@@ -1,3 +1,13 @@
+# Thursday, 7 January 2020
+- Project 2 progress
+    - Walkthrough attempt
+- X Resume review
+- X Job applications
+    - LinkedIn
+    - Glassdoor
+    - Hacker news: Who's Hiring
+    - SharpestMinds jobs channel
+
 
 # Saturday, 19 December 2020
 - X Project 1 feedback
