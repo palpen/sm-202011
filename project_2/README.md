@@ -4,5 +4,9 @@
 
 #### [Favorita](https://www.corporacionfavorita.com/en/) is one of the major grocery chains in Ecuador, South America. In this [Kaggle](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data) competition we will be predicting the unit sales for thousands of items sold at different Favorita stores located in Ecuador. 
 #### This project contains six files ( Train, Test, Item, Stores, Oil, Transactions and Holiday_events ) needed for predicting unit sales for different products from 16 August 2017 to 31 August 2017. 
-    
+
+
+## References
+[https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel]
+[https://www.kaggle.com/headsortails/shopping-for-insights-favorita-eda]    
 
