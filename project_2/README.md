@@ -13,6 +13,6 @@ https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel
 https://www.kaggle.com/headsortails/shopping-for-insights-favorita-eda    
 
 ## Analysis
-### Analyzed the six data files and plotted insights from them
-### Modeled traing data with Random Forest Regressor and with Randomized Search CV
+#### Analyzed the six data files and plotted insights from them
+#### Modeled traing data with Random Forest Regressor and with Randomized Search CV
 
