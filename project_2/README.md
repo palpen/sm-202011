@@ -7,7 +7,7 @@
 
 
 ## References
-[https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel] (https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel)
+https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel 
 
 
 [https://www.kaggle.com/headsortails/shopping-for-insights-favorita-eda]    
