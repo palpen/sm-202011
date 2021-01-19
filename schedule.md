@@ -1,3 +1,7 @@
+# Wednesday, 13 January 2020
+- Resume review
+- Project 2
+
 # Thursday, 7 January 2020
 - Project 2 progress
     - Walkthrough attempt
