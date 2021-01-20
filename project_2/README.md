@@ -12,7 +12,6 @@ This project contains six files ( Train, Test, Item, Stores, Oil, Transactions a
 The top 5 features used for predicting unit sales are average sales calculated to next two weeks for each date in train and validation data, promotions calculated for future days tells about whether the item will be on promotion or not for coming days played an important role for forecasting sales in test data. 
 
 
-
 ## References
 
 Data Source[https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data]
@@ -25,13 +24,16 @@ https://www.kaggle.com/sohinibhattacharya86/predict-grocery-sales-rf-xgb
 
 ## Analysis
 
-Analyzed the six data files and plotted insights from them
-Modeled traing data with Random Forest Regressor and with Randomized Search CV
+Analyzed the six data files and plotted insights from them to understand the relations between target variable and other variables
+Modeled Random forest regressor and Randomized Search CV models on train and test data
 
-Evaluation Metrics
+**Evaluation Metrics**
 
 Random Forest Regressor | Randomized Search CV
 ----------------------- | ---------------------
 MAE  :   0.29           |  MAE  :   0.28 
 MSE  :   0.40           |  MSE  :   0.35 
 RMSE :   0.63           |  RMSE :   0.59
+
+
+
