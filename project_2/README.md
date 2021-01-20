@@ -20,6 +20,14 @@ https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel
 https://www.kaggle.com/sohinibhattacharya86/predict-grocery-sales-rf-xgb  
 
 ## Analysis
+
 Analyzed the six data files and plotted insights from them
 Modeled traing data with Random Forest Regressor and with Randomized Search CV
 
+Evaluation Metrics
+
+Random Forest Regressor | Randomized Search CV
+----------------------- | ---------------------
+MAE  :                  |
+MSE  :                  |
+RMSE :                  |
