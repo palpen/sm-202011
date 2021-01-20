@@ -9,6 +9,10 @@
 
 ![Feature Importance](imgs/Feature_Importance.png)
 
+#### The top 5 features used for predicting unit sales are average sales calculated to next two weeks for each date in train and validation data, promotions calculated for future days tells about whether the item will be on promotion or not for coming days played an important role for forecasting sales in test data. 
+
+
+
 ## References
 https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel 
 
