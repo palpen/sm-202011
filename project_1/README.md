@@ -5,11 +5,11 @@
 
 [LendingClub](https://www.lendingclub.com/) was an American peer-to-peer lending company and the world's largest lending platform, where investors can search and browse the loan listings on the LendingClub website and select loans that they wanted to invest in based on the borrower information.As explained by [Wikipedia](https://en.wikipedia.org/wiki/LendingClub).
 
-The goal of this project is to predict the probability that a loan will charge off. Here, the target variable is **loan_status**. for that reason we are keeping loan_status as either *fully paid* or *charge off*. This project will help investors to make better decisions while investing in borrowers. This dataset has 2 million rows and 151 columns.
+The goal of this project is to predict the probability that a loan will charge off. Here, the target variable is **loan status**. for that reason we are keeping loan_status as either *fully paid* or *charge off*. This project will help investors to make better decisions while investing in borrowers. This dataset has 2 million rows and 151 columns.
 
 ## Main Results
 
-Using the random forest classifier, we were able to achieve an ROC-AUC of 0.65 and an Precision-Recall-AUC of .31.If you look at the cummulative gains curve, we find that selecting the top 20% based on the model's prediction can capture 35% of the true cases (i.e. customers who actually defaulted) in the hold out set.
+Using the random forest classifier, we were able to achieve an ROC-AUC of 0.72 and an Precision-Recall-AUC of .39.If you look at the cummulative gains curve, we find that selecting the top 20% based on the model's prediction can capture 40% of the true cases (i.e. customers who actually defaulted) in the hold out set.
 
 ![cummulative_gain](imgs/cummulativegains.png)
 
