@@ -7,7 +7,7 @@
 
 ## Main Results
 
-![featureimportance](imgs/feature_Importance.png)
+![Feature Importance](imgs/Feature_Importance.png)
 
 ## References
 https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel 
