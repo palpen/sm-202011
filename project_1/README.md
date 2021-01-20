@@ -21,15 +21,15 @@ Kernel Source [https://www.kaggle.com/pileatedperch/predicting-charge-off-from-i
 
 ## Analysis
 
-This project contains Loan_prepation where data preparation takes place and Loan_Model where data modeling happens.
+This project contains Loan prepation where data preprocessing, visualizing attributes behavior towards target variable was plotted and in Loan model built random forest classifier with Grid Search CV
 
-In **Loan_Preparation**
+In **Loan Preparation**
 
 :white_check_mark: Removed the loan features with **>30%** missing data
 
 :white_check_mark: Divided the data into numerical data and categorical data, then visualized features in bar plots, scatter charts, stacked bar plots
 
-In **Loan_model**
+In **Loan model**
 
 :white_check_mark: Created dummy variables for categorical variables
 
