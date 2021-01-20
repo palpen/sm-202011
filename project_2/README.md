@@ -28,6 +28,6 @@ Evaluation Metrics
 
 Random Forest Regressor | Randomized Search CV
 ----------------------- | ---------------------
-MAE  :                  |
-MSE  :                  |
-RMSE :                  |
+MAE  :   0.29           |  MAE  :   0.28 
+MSE  :   0.40           |  MSE  :   0.35 
+RMSE :   0.63           |  RMSE :   0.59
