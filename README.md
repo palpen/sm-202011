@@ -17,7 +17,9 @@ Topic: SharpestMinds weekly touchbase
 
 Join Zoom Meeting
 https://us04web.zoom.us/j/3832725619?pwd=aFFicG5XWWx6TGNYQlF2b0l2RmNRZz09
+
 Meeting ID: 383 272 5619
+
 Passcode: rjSn4i
 
 
