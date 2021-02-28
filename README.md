@@ -10,16 +10,16 @@ Machine Learning / Data Science Lifecycle:
 - Model development and evalualtion
 - Deployment
 
+
 ## Weekly touchbase
 
 Topic: SharpestMinds weekly touchbase
 
 Join Zoom Meeting
-https://us02web.zoom.us/j/3851650874?pwd=UzE1WGtEeThNR0x1QTZ0cmVHUVBiQT09
+https://us04web.zoom.us/j/3832725619?pwd=aFFicG5XWWx6TGNYQlF2b0l2RmNRZz09
+Meeting ID: 383 272 5619
+Passcode: rjSn4i
 
-Meeting ID: 385 165 0874
-
-Passcode: c9PgA0
 
 ## Building the development environment using conda
 
@@ -49,7 +49,7 @@ The goal of this project is to develop a machine learning model to predict which
 
 ## Project 2: Corporación Favorita Grocery Sales Forecasting
 
-* Data source: https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data 
+* Data source: https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data
 
 
 ## Job and Interview Prep
